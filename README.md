@@ -18,5 +18,3 @@ SmartStudy Bot is a desktop chatbot application built with Python and Tkinter. I
 
 1. Clone this repository  
 2. Install dependencies:
- 
-hello
